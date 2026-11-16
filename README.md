@@ -4,7 +4,7 @@ Agent skills made by [Skillpedia](https://www.useskillpedia.com), the catalog of
 
 | Skill | What it does |
 |---|---|
-| [claude-animation-styles](claude-animation-styles/) | Animates any scene in one of 10 visual styles (pixel art, paper cutout, blueprint, neon, flat vector, comic book, chalkboard, claymation, risograph, watercolor) as a single HTML file. Includes a copy-and-paste prompt and a reference picture for each style. |
+| [claude-animation-styles](claude-animation-styles/) | Animates any scene in one of 20 visual styles (pixel art, paper cutout, blueprint, neon, flat vector, comic book, chalkboard, claymation, risograph, watercolor, stained glass, shadow puppet, ukiyo-e, low poly, bauhaus, notebook doodle, sticker, glitch, felt & stitch, art deco) as a single HTML file. Includes a copy-and-paste prompt and a reference picture for each style. |
 
 ## Install
 
